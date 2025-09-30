@@ -10,8 +10,8 @@
 }
 
 .dashboard-header {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
+  background: linear-gradient(135deg, #030615 0%, #764ba2 100%);
+  color: rgb(162, 79, 79);
   padding: 2rem;
   text-align: center;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -32,7 +32,7 @@
 .dashboard-main {
   flex: 1;
   padding: 2rem;
-  background-color: #f5f7fa;
+  background-color: #325042;
 }
 
 .cards-container {
